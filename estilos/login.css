@@ -1,0 +1,16 @@
+body{
+
+  background-image: url("../assets/elgrito.jpg");
+ 
+}
+
+h1{
+	color: white;
+	font-family: "Verdana";
+}
+
+form{
+	width: 750px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 12;
+}
